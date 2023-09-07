@@ -14,7 +14,7 @@
     "express-session": "1.17.1",
     "forever": "3.0.4",
     "helmet": "4.5.0",
-    "marked": "5.0.2",
+    "marked": "8.0.1",
     "mongodb": "5.5.0",
     "needle": "2.6.0",
     "node-esapi": "0.0.1",
